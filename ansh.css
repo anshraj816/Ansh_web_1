@@ -31,9 +31,11 @@ h1 {
 h2 {
     color: brown;
     margin: 20px 0 10px;
-}
+
+}
 .text {
     margin-bottom: 20px;
+    background -color: pink;
 }
 
 li {
