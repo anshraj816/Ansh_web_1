@@ -32,10 +32,11 @@ h2 {
     color: brown;
     margin: 20px 0 10px;
 
-}
+}
 .text {
     margin-bottom: 20px;
-    background-color: #ffc0cb;
+    background-color: pink;
+    display: inline-block; 
 }
 
 li {
